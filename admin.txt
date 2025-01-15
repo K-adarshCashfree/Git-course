@@ -1,0 +1,2 @@
+Permitted to add and remove users
+Grant and revoke permissions to perform authorized tasks
